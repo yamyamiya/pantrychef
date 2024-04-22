@@ -1,5 +1,4 @@
 # PantryChefBot 
-Author: Iamshchikova Olga
 
 Telegram bot application for providing culinary recipes.
 
